@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-.header, .footer {
+.header, .content1, .footer {
     background-color: #1F2937;
     color: #F9FAF8;
 }
@@ -23,4 +23,5 @@ a {
 .header {
     font-size: 24px;
 }
+
 
