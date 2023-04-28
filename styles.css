@@ -56,6 +56,22 @@ button {
     border-radius: 15px;
 }
 
+.content3 {
+    background-color: #E5E7EB;
+}
+
+.content3 .quote {
+    font-size: 36px;
+    font-weight: 200;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.content .name {
+    font-size: 18px;
+    color: black;
+}
+
 
 
 
