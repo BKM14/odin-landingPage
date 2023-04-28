@@ -108,11 +108,19 @@ button {
 }
 
 .content4 {
+    border-radius: 15px;
     background-color: #3882F6;
     font-size: 18px;
-    padding: 50px;
+    /* padding: 50px; */
+    width: 800px;
+    height: 150px;
+    display: flex;
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
 }
 
-#bold {
-    font-weight: 800;
+.info {
+    max-width: 450px;
 }
+
