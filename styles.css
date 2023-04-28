@@ -72,6 +72,15 @@ button {
     color: black;
 }
 
+.content4 {
+    background-color: #3882F6;
+    font-size: 18px;
+}
 
+#bold {
+    font-weight: 800;
+}
 
-
+.content4 button {
+    border: 3px solid white;
+}
